@@ -1,4 +1,4 @@
 [workspace]
 resolver = "3"
-members = ["api-service"]
+members = ["api-service", "keeper-native"]
 
